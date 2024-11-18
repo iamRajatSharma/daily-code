@@ -26,10 +26,5 @@ my_project/
 │   │   └── ...                 # Other Node.js test files
 │   ├── package.json            # Node.js dependencies and scripts
 │   └── README.md               # Documentation for Node.js-specific functionality
-│
-├── shared/                     # Code or resources shared between Python and Node.js
-│   ├── utils/                  # Shared utility code (if any)
-│   └── README.md               # Documentation for shared resources
-│
-└── README.md                   # Project-wide documentation
+
 </code>
