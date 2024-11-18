@@ -1,5 +1,5 @@
 DIRECTORY STRUCTURE
-
+<code>
 my_project/
 │
 ├── python/                     # Python-specific code and tests
@@ -31,3 +31,4 @@ my_project/
 │   └── README.md               # Documentation for shared resources
 │
 └── README.md                   # Project-wide documentation
+</code>
